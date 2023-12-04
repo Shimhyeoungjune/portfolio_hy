@@ -137,6 +137,11 @@ html {
   font-family: 'Noto Sans KR',sans-serif;
   font-weight: 300;
 }
+.slogen span:nth-child(2) {
+  color: white;
+}
+
+
 .slogen2{
   font-weight: bold;
   color: white;
