@@ -104,7 +104,8 @@ html {
 .title_box {
   /* width: 100%; */
   position: absolute;
-  top: 25%;
+  top: 50%;
+  transform: translateY(-50%);
   z-index: 20;
   left: calc(50% - (867px / 2));
 }
@@ -125,7 +126,7 @@ html {
 .home_right{
   width: 50%;
   opacity: 0.7;
-  background-color: rgb(145 149 152);
+  background-color: rgba(0,0,0,0.4);
 }
 
 .slogen{
