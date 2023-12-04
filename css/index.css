@@ -262,7 +262,7 @@ background-color:rgb(233, 233, 233);
   margin: 30px auto 0px;
   width: 90px ;
   height: 90px;
-  background: url(../img/mybatis_icon.png) no-repeat center /contain;
+  background: url(../img/mybatis_icon.png) no-repeat center /120%;
 }
 .spring{
   margin: 30px auto 0px;
