@@ -329,12 +329,15 @@ background-color:rgb(233, 233, 233);
 
 .port_title {
   font-size: 18px;
-  font-weight: 900;
+  font-weight: 800;
   text-align: center;
   margin: 20px 0;
 }
 .port_info span:first-child {
-  font-weight: 900;
+  font-weight: 500;
+}
+.font_300 {
+  font-weight: 300;
 }
 
 .site_btn img {
