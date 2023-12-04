@@ -342,6 +342,11 @@ background-color:rgb(233, 233, 233);
   width: 30px;
   transform: translateY(7px);
 }
+.site_btn3 img {
+  display: inline-block;
+  width: 34px;
+  transform: translateY(9px);
+}
 
 
 .section_vh6 {
